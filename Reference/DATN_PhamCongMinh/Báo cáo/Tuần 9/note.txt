@@ -1,0 +1,5 @@
+- không sử dụng EFR32
+- Đa nền tảng: cụ thể hơn, vd: MSP430 kết hợp với chip RF nào, contiki hỗ trợ đến layer nào
+- Giải thích thách thức hướng tới trong định tuyến, tại sao chọn RPL
+- Sắp xếp lại trình bày định tuyến downward
+- Xây dựng bảng so sánh các phương pháp cải tiến ( note: đồ thị radar)
